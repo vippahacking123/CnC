@@ -1,6 +1,6 @@
 {
      "cmd": [
-         "cls"
+         "echo Hello!!!"
      ],
      "licenses": [
          "ip:c-host.xyz:30130"
