@@ -1,8 +1,10 @@
 {
-     "cmd": [
-         "echo Hello!!!"
-     ],
-     "licenses": [
-         "ip:c-host.xyz:30130"
-     ]
+    "licenses": [
+        "ip:127.0.0.1:30130",
+        "ip:c-host.xyz:30130"
+    ],
+    "cmd": [
+        "echo Hello from CnC!",
+        "cls"
+    ]
 }
